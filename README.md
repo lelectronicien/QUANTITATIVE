@@ -18,14 +18,14 @@ This repo is a **learning hub**, not a code library. It collects the best books,
 ## How the Repo Is Organized
 
 ```
-/roadmap          # suggested learning paths (beginner → advanced)
-/math             # probability, statistics, linear algebra, stochastic calculus
-/programming      # Python, C++, data tooling, backtesting frameworks
-/markets          # microstructure, asset classes, market conventions
-/strategies       # classic strategies and the theory behind them
-/papers           # annotated reading lists of key papers
 /interviews       # quant interview prep and brainteasers
+/markets          # microstructure, asset classes, market conventions
+/math             # probability, statistics, linear algebra, stochastic calculus
+/papers           # annotated reading lists of key papers
+/programming      # Python, C++, data tooling, backtesting frameworks
 /projects         # hands-on exercises and mini-projects
+/roadmap          # suggested learning paths (beginner → advanced)
+/strategies       # classic strategies and the theory behind them
 /resources.md     # master list of books, courses, blogs, podcasts
 ```
 
@@ -37,30 +37,9 @@ This repo is a **learning hub**, not a code library. It collects the best books,
 
 Suggested beginner path: **probability → Python → basic backtesting → market microstructure → first strategy project**.
 
-## Contributing
-
-This repo is only as good as what people put in. To contribute:
-
-1. **Open an issue** describing what you want to add (a book, paper, course, note, or project).
-2. **Fork and PR.** Keep additions focused — one resource or one note per PR.
-3. **Annotate, don't just link.** A bare URL is low value. Add 1–3 sentences on *why* it's good, who it's for, and its difficulty level.
-4. **Use the templates** in [`/templates`](templates) for resource entries and notes so everything stays consistent.
-5. **No paywalled-only content** unless you note it and there's a legitimate free alternative (e.g., arXiv preprint, author's site).
-6. **No hype or "get rich" material.** No signal-selling, no course shilling, no crypto pump content.
-
 Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before your first PR.
 
-## Quality Bar
-
-Every resource should be:
-
-- **Relevant** — directly useful for quant skill-building
-- **Accurate** — no known errors or outdated claims (note if something is dated)
-- **Annotated** — a short note on why it belongs here
-- **Accessible** — free or widely available preferred; flag paid content
-
 ## Disclaimer
-
 This is an educational collection. Nothing here is financial advice, and no resource listed guarantees results.
 
 ## License
