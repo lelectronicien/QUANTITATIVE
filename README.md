@@ -6,7 +6,7 @@ A curated collection of resources, notes, and roadmaps for becoming a good quant
 
 ## What This Is
 
-This repo is a **learning hub**, not a code library. It collects the best books, papers, courses, and practical exercises for building quant skills — math, statistics, programming, market microstructure, and strategy research. Contributions are welcome from anyone who has found something genuinely useful.
+This repo is a **learning hub**, not a code library. It collects the best books, papers, courses, and practical exercises for building quant skills math, statistics, programming, market microstructure, and strategy research. Contributions are welcome from anyone who has found something genuinely useful.
 
 ## Who This Is For
 
